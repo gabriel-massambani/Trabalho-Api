@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Trabalho_API.Data;
+using Trabalho_API.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,9 @@ builder.Services.AddDbContext<AppCont>(options =>
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpClient();
+builder.Services.AddSingleton<CorreiosService>();
 
 var app = builder.Build();
 

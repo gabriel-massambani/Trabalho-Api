@@ -134,3 +134,5 @@ C:\Users\Usuario\source\repos\Trabalho API\Trabalho API\obj\Debug\net8.0\refint\
 C:\Users\Usuario\source\repos\Trabalho API\Trabalho API\obj\Debug\net8.0\Trabalho API.pdb
 C:\Users\Usuario\source\repos\Trabalho API\Trabalho API\obj\Debug\net8.0\Trabalho API.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\Trabalho API\Trabalho API\obj\Debug\net8.0\ref\Trabalho API.dll
+C:\Users\Usuario\source\repos\Trabalho API\Trabalho API\obj\Debug\net8.0\Trabalho API.sourcelink.json
+C:\Users\Usuario\source\repos\Trabalho API\Trabalho API\bin\Debug\net8.0\Newtonsoft.Json.dll

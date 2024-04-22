@@ -7,20 +7,48 @@
       "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\migrations\\20240422222320_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\migrations\\20240422222320_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\views\\cep\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cep\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\service\\correiosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\service\\correiosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\migrations\\20240422222320_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\migrations\\20240422222320_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\data\\appcont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\data\\appcont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\users\\usuario\\source\\repos\\trabalho api\\trabalho api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,115 +74,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T22:24:51.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20240422222320_start.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Migrations\\20240422222320_start.cs",
-              "RelativeDocumentMoniker": "Trabalho API\\Migrations\\20240422222320_start.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Migrations\\20240422222320_start.cs",
-              "RelativeToolTip": "Trabalho API\\Migrations\\20240422222320_start.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T22:23:21.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Edit.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cep\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cep\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cep\\Index.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\Cep\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T21:58:31.46Z",
+              "WhenOpened": "2024-04-22T22:47:49.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "CepController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Controllers\\CepController.cs",
+              "RelativeDocumentMoniker": "Trabalho API\\Controllers\\CepController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Controllers\\CepController.cs",
+              "RelativeToolTip": "Trabalho API\\Controllers\\CepController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:44:39.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CorreiosService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Service\\CorreiosService.cs",
+              "RelativeDocumentMoniker": "Trabalho API\\Service\\CorreiosService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Service\\CorreiosService.cs",
+              "RelativeToolTip": "Trabalho API\\Service\\CorreiosService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:39:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Program.cs",
               "RelativeDocumentMoniker": "Trabalho API\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Program.cs",
               "RelativeToolTip": "Trabalho API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T21:54:45.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Index.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Index.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T21:57:28.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Details.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Details.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T21:57:48.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Delete.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T21:58:54.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Create.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Create.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T21:58:07.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\appsettings.json",
               "RelativeDocumentMoniker": "Trabalho API\\appsettings.json",
@@ -179,20 +143,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T22:24:51.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T21:58:07.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Trabalho API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Models\\Cliente.cs",
+              "RelativeToolTip": "Trabalho API\\Models\\Cliente.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:47:18.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Trabalho API\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Models\\Endereco.cs",
+              "RelativeToolTip": "Trabalho API\\Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:51:27.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Trabalho API\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Trabalho API\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowIYAAAAJAAAA",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAYwI4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T21:56:26.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T21:57:28.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Details.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Details.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T21:57:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T21:58:31.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240422222320_start.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Migrations\\20240422222320_start.cs",
+              "RelativeDocumentMoniker": "Trabalho API\\Migrations\\20240422222320_start.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Migrations\\20240422222320_start.cs",
+              "RelativeToolTip": "Trabalho API\\Migrations\\20240422222320_start.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:23:21.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T21:58:54.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AppCont.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Data\\AppCont.cs",
               "RelativeDocumentMoniker": "Trabalho API\\Data\\AppCont.cs",
@@ -201,19 +282,6 @@
               "ViewState": "AQIAAAIAAAAAAAAAAAAAwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T21:53:38.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Trabalho API\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabalho API\\Trabalho API\\Models\\Cliente.cs",
-              "RelativeToolTip": "Trabalho API\\Models\\Cliente.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T21:47:18.647Z",
               "EditorCaption": ""
             }
           ]

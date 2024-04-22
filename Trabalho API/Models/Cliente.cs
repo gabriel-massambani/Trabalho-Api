@@ -18,5 +18,7 @@ namespace Trabalho_API.Models
 
         [Required]
         public string CPF { get; set; }
+
+        
     }
 }

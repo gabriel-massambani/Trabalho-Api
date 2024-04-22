@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Usuario\source\repos\Trabalho API\Trabalho API
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Usuario/source/repos/Trabalho API/Trabalho API/Views/Cep/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Usuario/source/repos/Trabalho API/Trabalho API/Views/Cliente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
